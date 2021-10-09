@@ -2,6 +2,7 @@
 #### I am a software developer
 
 Pode entrar, só não repara na bagunça 
+
 Skills: Java / NodeJS / Kotlin / Python / Docker / Azure / SQL / Linux
 
 - 🔭 I’m currently working on Open banking 

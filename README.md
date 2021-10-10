@@ -2,6 +2,8 @@
 
 #### I am a software developer
 
+![Alt Text](https://github.com/karindoy/karindoy/blob/main/Hnet-image.gif)
+
 You can go in, but don't notice the mess 
 
 Skills: Java / NodeJS / Kotlin / Python / Docker / Azure / SQL / Linux

@@ -11,8 +11,7 @@ You can go in, but don't notice the mess
 
 Skills: Java / NodeJS / Kotlin / Python / Docker / Azure / SQL / Linux
 
-- 🔭 I’m currently working on Open banking
-- 🌱 I’m currently learning data science
+- 🔭 I’m currently working with blockchain
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I love animations movies
 

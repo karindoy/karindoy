@@ -9,7 +9,7 @@ When I'm not coding, you'll find me... well, maybe not find me. I'll be studying
 
 <div align="center">
 
-[![Stardrop](https://stardewvalleywiki.com/mediawiki/images/a/a5/Stardrop.png)]
+![Stardrop](https://stardewvalleywiki.com/mediawiki/images/a/a5/Stardrop.png)
 
 </div>
 
